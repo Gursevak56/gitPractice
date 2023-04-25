@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is chapter for the alien-plot
 =======
 this is master branch for chapter 1
 >>>>>>> master
+=======
+this is alien branch
+>>>>>>> alien
